@@ -1,4 +1,4 @@
-# Wolt Challenge 2019
+# Solution of the Wolt Coding Task 2019
 ## 
 
 I found out about this [Wolt Coding Task 2019](https://github.com/woltapp/summer2019) challenge
